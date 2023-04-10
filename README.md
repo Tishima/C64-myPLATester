@@ -1,6 +1,6 @@
 # C64 myPLATester shield - PLA 906114-01
 The myPLATester shield is a Arduino Mega shield , to test the C64 PLA 906114-01 or his clones like the GAL PAL.
-It check all output vectors  via all Input Vectors and shows the result with a LED or serial output
+It check all output vectors  via all input vectors and shows the result with a LED or serial output
 
 Its based on the work from AC Lovell - ACs 8-Bit Zone
 for more information look at his Video
