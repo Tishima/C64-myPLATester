@@ -5,10 +5,9 @@ It check all output vectors  via all Input Vectors and shows the result with a L
 Its based on the work from AC Lovell - ACs 8-Bit Zone
 for more information look at his Video
 https://www.youtube.com/watch?v=Yru8bx_IqN8
- 
-<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.0/pictures/diag586220_harness.jpg" width="300" alt="Diagnostic Harness">
-
-
+           
+<img src="https://github.com/Tishima/C64-myPLATester/blob/main/myPLA_Tester%20shield/pictures/myPLA_Tester%20shield_complete.jpg" width="300" alt="C64 myPLATester shield">
+         
 This repository contains all eagle files, gerber file, BOM, schematics, a little adjusted Arduino source code for my shield hardware, based on ACs code
 
 Depending on where the parts and pcbs are purchased, the price for the complete shield is around 20€ (2023), without Arduino Mega and power supply
