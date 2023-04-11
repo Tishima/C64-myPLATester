@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=Yru8bx_IqN8
 This repository contains all eagle files, gerber file, BOM, schematics, a little adjusted Arduino source code for my shield hardware, based on ACs code
 
 Depending on where the parts and pcbs are purchased, the price for the complete shield is around 20€ (2023), without Arduino Mega and power supply
-I built this project for find a issue with the GAL PLA from https://www.freepascal.org/~daniel/c64pla/, but the problem was only a wrong programming failure of my site.
+I built this project to find a issue with the GAL PLA from https://www.freepascal.org/~daniel/c64pla/, but the problem was only a wrong programming failure of my site.
