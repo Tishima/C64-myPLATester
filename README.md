@@ -7,6 +7,8 @@ for more information look at his Video
 https://www.youtube.com/watch?v=Yru8bx_IqN8
            
 <img src="https://github.com/Tishima/C64-myPLATester/blob/main/myPLA_Tester%20shield/pictures/myPLA_Tester%20shield_complete.jpg" width="300" alt="C64 myPLATester shield">
+
+<img src="https://github.com/Tishima/C64-myPLATester/blob/main/myPLA_Tester%20shield/pictures/myPLA_Tester%20shield_2023-04-11.jpg" width="300" alt="C64 myPLATester shield PCB">
          
 This repository contains all eagle files, gerber file, BOM, schematics, a little adjusted Arduino source code for my shield hardware, based on ACs code
 
